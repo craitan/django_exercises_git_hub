@@ -134,7 +134,7 @@ a {
     width: 250px;
     height: 250px;
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 100%;
     overflow: hidden;
     position: relative;
     text-align: center;
